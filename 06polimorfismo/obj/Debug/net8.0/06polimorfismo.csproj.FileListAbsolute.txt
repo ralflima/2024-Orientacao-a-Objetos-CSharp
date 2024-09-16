@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/bin/Debug/net8.0/06polimorfismo
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/bin/Debug/net8.0/06polimorfismo.deps.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/bin/Debug/net8.0/06polimorfismo.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/bin/Debug/net8.0/06polimorfismo.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/bin/Debug/net8.0/06polimorfismo.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/06polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/06polimorfismo.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/06polimorfismo.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/06polimorfismo.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/06polimorfismo.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/refint/06polimorfismo.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/06polimorfismo.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/06polimorfismo.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/06polimorfismo/obj/Debug/net8.0/ref/06polimorfismo.dll

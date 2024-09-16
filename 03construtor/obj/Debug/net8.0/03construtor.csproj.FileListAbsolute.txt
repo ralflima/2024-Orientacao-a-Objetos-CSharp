@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/bin/Debug/net8.0/03construtor
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/bin/Debug/net8.0/03construtor.deps.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/bin/Debug/net8.0/03construtor.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/bin/Debug/net8.0/03construtor.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/bin/Debug/net8.0/03construtor.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/03construtor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/03construtor.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/03construtor.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/03construtor.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/03construtor.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/refint/03construtor.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/03construtor.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/03construtor.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/03construtor/obj/Debug/net8.0/ref/03construtor.dll

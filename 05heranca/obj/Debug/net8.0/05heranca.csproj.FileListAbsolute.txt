@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/bin/Debug/net8.0/05heranca
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/bin/Debug/net8.0/05heranca.deps.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/bin/Debug/net8.0/05heranca.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/bin/Debug/net8.0/05heranca.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/bin/Debug/net8.0/05heranca.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/05heranca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/05heranca.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/05heranca.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/05heranca.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/05heranca.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/refint/05heranca.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/05heranca.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/05heranca.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/05heranca/obj/Debug/net8.0/ref/05heranca.dll

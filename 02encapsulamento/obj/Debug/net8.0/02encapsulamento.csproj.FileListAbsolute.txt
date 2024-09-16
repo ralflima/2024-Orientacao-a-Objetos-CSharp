@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/02encapsulamento.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/02encapsulamento.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/02encapsulamento.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/bin/Debug/net8.0/02encapsulamento
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/bin/Debug/net8.0/02encapsulamento.deps.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/bin/Debug/net8.0/02encapsulamento.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/bin/Debug/net8.0/02encapsulamento.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/bin/Debug/net8.0/02encapsulamento.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/02encapsulamento.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/refint/02encapsulamento.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/02encapsulamento.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/02encapsulamento.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/02encapsulamento/obj/Debug/net8.0/ref/02encapsulamento.dll

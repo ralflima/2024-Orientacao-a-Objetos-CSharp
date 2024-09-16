@@ -1,0 +1,10 @@
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/bin/Debug/net8.0/04estatico
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/bin/Debug/net8.0/04estatico.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/bin/Debug/net8.0/04estatico.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/obj/Debug/net8.0/04estatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/obj/Debug/net8.0/04estatico.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/obj/Debug/net8.0/04estatico.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/obj/Debug/net8.0/04estatico.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/obj/Debug/net8.0/04estatico.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/obj/Debug/net8.0/refint/04estatico.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/04estatico/obj/Debug/net8.0/04estatico.pdb

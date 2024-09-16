@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/bin/Debug/net8.0/07abstracao
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/bin/Debug/net8.0/07abstracao.deps.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/bin/Debug/net8.0/07abstracao.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/bin/Debug/net8.0/07abstracao.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/bin/Debug/net8.0/07abstracao.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/07abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/07abstracao.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/07abstracao.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/07abstracao.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/07abstracao.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/refint/07abstracao.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/07abstracao.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/07abstracao.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/07abstracao/obj/Debug/net8.0/ref/07abstracao.dll

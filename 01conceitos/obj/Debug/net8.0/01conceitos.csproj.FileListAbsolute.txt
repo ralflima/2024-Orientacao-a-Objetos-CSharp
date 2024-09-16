@@ -1,0 +1,14 @@
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/bin/Debug/net8.0/01conceitos
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/bin/Debug/net8.0/01conceitos.deps.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/bin/Debug/net8.0/01conceitos.runtimeconfig.json
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/bin/Debug/net8.0/01conceitos.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/bin/Debug/net8.0/01conceitos.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/01conceitos.AssemblyInfoInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/01conceitos.AssemblyInfo.cs
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/01conceitos.csproj.CoreCompileInputs.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/01conceitos.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/refint/01conceitos.dll
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/01conceitos.pdb
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/01conceitos.genruntimeconfig.cache
+/Users/ralfschwederdelima/Desktop/Orientação a Objetos/01conceitos/obj/Debug/net8.0/ref/01conceitos.dll
